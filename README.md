@@ -8,7 +8,6 @@ I am Jatin Kumar, a skilled software developer with expertise in:
 - **Other Technologies**: Git, GitHub
 - **Programming Languages**: JavaScript
 
-```
 
 ## 🔥 Features
 - Fully responsive and interactive UI
@@ -24,23 +23,11 @@ I am Jatin Kumar, a skilled software developer with expertise in:
 1. Clone the repository:
    ```sh
    git clone https://github.com/jatinkumar2274/portfolio.git
-   ```
-2. Navigate to the project folder:
-   ```sh
-   cd portfolio
-   ```
-3. Install dependencies:
-   ```sh
-   npm install
-   ```
-4. Start the development server:
-   ```sh
-   npm start
-   ```
-5. Open `http://localhost:3000` in your browser.
+   
 
 6. photo
-   ![Screenshot (125)](https://github.com/user-attachments/assets/4957f197-dd9a-496e-a4e8-db845bdc3577)
+![Screenshot (125)](https://github.com/user-attachments/assets/19512b2e-6741-493c-b9db-5d309c2e6e52)
+
 
 
 
